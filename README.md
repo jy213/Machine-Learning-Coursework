@@ -1,2 +1,2 @@
 # Machine-Learning-Coursework
-2022 Machine Learning coursework with report
+2022 Machine Learning coursework
